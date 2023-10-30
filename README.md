@@ -1,6 +1,5 @@
 # 2.-Project. Building MySQL Data Base.
 
-1.-project_shark_attacks
 
 
 ![](https://github.com/karmelealonso/2.-project_sql/blob/main/imágenes/Portada%20README.png)
