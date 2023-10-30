@@ -1,4 +1,10 @@
-# 2.-project_sql-data-base-building
+# 2.-Project. Building MySQL Data Base.
+
+1.-project_shark_attacks
+
+
+![](https://github.com/karmelealonso/2.-project_sql/blob/main/imágenes/Portada%20README.png)
+
 
 # Contexto de Fondo e Introducción al proyecto.
 
@@ -37,6 +43,7 @@ El último paso de nuestro proyecto implica la realización de algunas consultas
 - archivos_sql: contiene dos archivos sql con la Base de datos construida y las 5 consultas realizadas posteriormente. 
 - data y data_clean: contienen los archivos CSV  iniciales o los limpios, respectivamente.
 - imágenes: contiene una imagen con el diagrama_EER de la base de datos y las tablas con los resultad de las queries.
+
 
 
 **Para obtener información más detallada sobre el procedimiento y los pasos que se han seguido, te invito a consultar los documentos disponibles en el repositorio.**
